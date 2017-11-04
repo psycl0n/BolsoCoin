@@ -1087,7 +1087,13 @@ uint256 static GetOrphanRoot(const CBlockHeader* pblock)
 
 int64 static GetBlockValue(int nHeight, int64 nFees)
 {
+
+   if(nHeight >= 50000) {
+	return (5 * COIN) + nFees;
+   }
+
     int64 nSubsidy = 1488 * COIN;
+
 
     // Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
     nSubsidy >>= (nHeight / 10000); // Bolsocoin: 840k blocks in ~4 years
