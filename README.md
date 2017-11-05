@@ -36,3 +36,13 @@ Supporting imageboards:
 https://27chan.org/b/
 https://dogolachan.org/b/
 
+----
+Block Explorer: 
+http://niobio.dogolachan.org:3001
+
+Web Wallet: 
+http://niobio.dogolachan.org
+
+Mining Pools: 
+http://niobio.dogolachan.org:8181 
+http://altcoin.mine-pool.ro/
