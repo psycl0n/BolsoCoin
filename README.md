@@ -28,21 +28,22 @@ Development ?
 
 Just submit your Pull Request. 
 
-THIS IS AN ALPHA RELEASE. SO BUGS ARE EXPECTED.
+**This is ALPHA release. Bugs are expected**
 
 Supporting imageboards:
 ------------------
 
-https://27chan.org/b/
-https://dogolachan.org/b/
+[27chan](https://27chan.org/b/)
+
+[Dogolachan](https://dogolachan.org/b/)
 
 ----
-Block Explorer: 
-http://niobio.dogolachan.org:3001
+[Block Explorer](http://niobio.dogolachan.org:3001)
 
-Web Wallet: 
-http://niobio.dogolachan.org
+[Web Wallet] (http://niobio.dogolachan.org)
 
-Mining Pools: 
-http://niobio.dogolachan.org:8181 
-http://altcoin.mine-pool.ro/
+Active mining Pools: 
+
+(http://niobio.dogolachan.org:8181)
+
+(http://altcoin.mine-pool.ro/)
