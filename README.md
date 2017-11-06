@@ -40,7 +40,7 @@ Supporting imageboards:
 ----
 [Block Explorer](http://niobio.dogolachan.org:3001)
 
-[Web Wallet] (http://niobio.dogolachan.org)
+[Web Wallet](http://niobio.dogolachan.org)
 
 Active mining Pools: 
 
