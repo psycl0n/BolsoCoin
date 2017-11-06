@@ -37,13 +37,14 @@ Supporting imageboards:
 
 [Dogolachan](https://dogolachan.org/b/)
 
-----
+Useful links:
+------------------
 [Block Explorer](http://niobio.dogolachan.org:3001)
 
 [Web Wallet](http://niobio.dogolachan.org)
 
-Active mining Pools: 
+Active pools:
+------------------
+http://niobio.dogolachan.org:8181
 
-(http://niobio.dogolachan.org:8181)
-
-(http://altcoin.mine-pool.ro/)
+http://altcoin.mine-pool.ro/
