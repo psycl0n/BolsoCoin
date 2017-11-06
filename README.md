@@ -3,11 +3,11 @@ Bolsocoin integration/staging tree
 What is Bolsocoin?
 ----------------
 
-Bolsocoin is a lite version of Litecoin using scrypt as a proof-of-work algorithm.
- - subsidy starts in 1488
+Bolsocoin is a fork version of Litecoin.
+ - subsidy starts in 1488 coins
  - 30 seconds block targets
- - subsidy halves in 10k blocks 
- - subsidy fixed in 5 after 50k blocks
+ - subsidy halves after 10k blocks 
+ - subsidy fixed in 5 coins after 50k blocks
  - ~842 million total coins
 
 License
