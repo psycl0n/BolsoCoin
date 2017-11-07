@@ -1174,11 +1174,13 @@ void MapPort(bool)
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
     {"haruna.dogolachan.org", "45.56.91.67"},
+    {"naru.dogolachan.org", "104.41.55.69"},
     {NULL, NULL}
 };
 
 static const char *strTestNetDNSSeed[][2] = {
     {"haruna.dogolachan.org", "45.56.91.67"},
+    {"naru.dogolachan.org", "104.41.55.69"},
     {NULL, NULL}
 };
 
@@ -1213,17 +1215,6 @@ void ThreadDNSAddressSeed()
 
     printf("%d addresses found from DNS seeds\n", found);
 }
-
-
-
-
-
-
-
-
-
-
-
 
 unsigned int pnSeed[] =
 {
