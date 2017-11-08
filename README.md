@@ -33,8 +33,6 @@ Just submit your Pull Request.
 Supporting imageboards:
 ------------------
 
-[27chan](https://27chan.org/b/)
-
 [Dogolachan](https://dogolachan.org/b/)
 
 Useful links:
