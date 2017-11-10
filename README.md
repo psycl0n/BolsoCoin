@@ -19,7 +19,7 @@ information or see http://opensource.org/licenses/MIT.
 Why 1488 ?
 -------------------
 
-Bolsocoin aims to be the first alt-right brazilian community crypto-currency. 
+Bolsocoin aims to be the first alt-right community crypto-currency. 
 It´s currently being used on brazilian alt-right anonymous imageboards in exchange for doxxing and swating.
 It´s name comes from Jair Bolsonaro, a brazilian Trump-like politics.
 
